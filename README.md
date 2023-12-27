@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali Asghar
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Software Development
-- 🌱 I’m currently learning supervised and unsupervised learning algorithms
+- 👀 I’m interested in...
+- 🌱 I’m currently...
 - 💞️ I’m looking to collaborate on any project that can help me learn new things and improve my skills
 - 📫 You can reach me at [aliasghar.chakera@gmail.com](aliasghar.chakera@gmail.com)
 
